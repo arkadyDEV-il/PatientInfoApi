@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patients>
+	<Patient>
+		<PatientId>1</PatientId>
+		<FirstName>John</FirstName>
+		<LastName>Doe</LastName>
+	</Patient>
+	<Patient>
+		<PatientId>2</PatientId>
+		<FirstName>Mike</FirstName>
+		<LastName>Lessie</LastName>
+	</Patient>
+	<Patient>
+		<PatientId>3</PatientId>
+		<FirstName>Sam</FirstName>
+		<LastName>Brown</LastName>
+	</Patient>
+</Patients>
